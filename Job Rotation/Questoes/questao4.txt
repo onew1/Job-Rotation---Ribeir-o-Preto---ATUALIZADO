@@ -1,0 +1,30 @@
+equação de referência do carro
+x1 = v1.t
+
+equação do caminhão
+x2 = 100km - v2.t
+
+2 pedágios para que o caminhão passe e perde 5 min em cada um deles
+
+tempo de viagem sem obstáculos
+ts = 100km/80kmh = 1,25h
+
+perdendo 10 min no total (0,17h) então o tempo de viagem é 1,25h+0,17h = 1,42h
+
+v2 = 100km/1,42h = 70,6km/h
+
+utilizando a equação para determinar o ponto de encontro
+t = x1/v1
+
+t = x2-100km/-v2
+
+x1 = x2
+x/v1 = x-100km/-v2
+
+-v2.x=v1.x - v1.100km
+
+x=v1.100km/v1+v2 = 100kmh.100km/110kmh+70,6kmh
+
+x = 60,9km
+
+então, o carro e o caminhão estão na mesma distância  de Ribeirão Preto quando se cruzarem
